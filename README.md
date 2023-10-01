@@ -1,4 +1,3 @@
-# userFunctions
 <!---
 Motives
 --->
