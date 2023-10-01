@@ -43,13 +43,13 @@ Additionally, it keeps track of which items were copied and which were not in an
  */
 
 private void Copy_Files(string srcFolder, string destFolder, string uExt,
-            string[] ufilters, string subDir, string[] eFloders, string cOutFile)
+            string[] ufilters, string subDir, string[] eFloders, string ufileNameList, string cOutFile)
 {
     bool copyAll = false;
     if (!IsFolderExists(cOutFile)) return;
     if (ufilters.Length < 1 && eFloders.Length < 1) copyAll = true;
 
-    Dictionary<string, string> itmList = GetFilterList();
+    Dictionary<string, string> itmList = GetFilterList(ufileNameList);
     List<string> foundItms = new List<string>();
     //lblStatus.Text = "Listing all files that satisfy the filter criteria, please wait.......";
     //lblStatus.Refresh();
