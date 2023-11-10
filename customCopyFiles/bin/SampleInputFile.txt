@@ -1,0 +1,6 @@
+Source Folder,Y:\SrcFiles
+File Extension,*.inp
+Other Criteria,RTK
+Key Names for copy path,K:\KeyNamesToCopy.csv
+Save Files for missing,K:\FilesToCopy_missed.csv
+Destination Folder,K:\DestFolder

@@ -1,0 +1,17 @@
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\bin\Debug\net6.0-windows\CopyFiles.exe
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\bin\Debug\net6.0-windows\CopyFiles.deps.json
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\bin\Debug\net6.0-windows\CopyFiles.runtimeconfig.json
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\bin\Debug\net6.0-windows\CopyFiles.dll
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\bin\Debug\net6.0-windows\CopyFiles.pdb
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\obj\Debug\net6.0-windows\CopyFiles.csproj.AssemblyReference.cache
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\obj\Debug\net6.0-windows\CopyFiles.frmCopyFile.resources
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\obj\Debug\net6.0-windows\CopyFiles.csproj.GenerateResource.cache
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\obj\Debug\net6.0-windows\CopyFiles.GeneratedMSBuildEditorConfig.editorconfig
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\obj\Debug\net6.0-windows\CopyFiles.AssemblyInfoInputs.cache
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\obj\Debug\net6.0-windows\CopyFiles.AssemblyInfo.cs
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\obj\Debug\net6.0-windows\CopyFiles.csproj.CoreCompileInputs.cache
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\obj\Debug\net6.0-windows\CopyFiles.dll
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\obj\Debug\net6.0-windows\refint\CopyFiles.dll
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\obj\Debug\net6.0-windows\CopyFiles.pdb
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\obj\Debug\net6.0-windows\CopyFiles.genruntimeconfig.cache
+K:\WrkSpaceGH\CsharpFunctions\customCopyFiles\obj\Debug\net6.0-windows\ref\CopyFiles.dll
